@@ -1,0 +1,173 @@
+[
+    {
+        "id": 1861816,
+        "name": "Ikaruga",
+        "country": "JP",
+        "coord": {
+            "lon": 134.583328,
+            "lat": 34.833328
+        }
+    },
+    {
+        "id": 1857451,
+        "name": "Matsuzaki",
+        "country": "JP",
+        "coord": {
+            "lon": 138.783325,
+            "lat": 34.75
+        }
+    },
+    {
+        "id": 2128894,
+        "name": "Noboribetsu",
+        "country": "JP",
+        "coord": {
+            "lon": 141.173065,
+            "lat": 42.451389
+        }
+    },
+    {
+        "id": 3175936,
+        "name": "Grandate",
+        "country": "IT",
+        "coord": {
+            "lon": 9.05784,
+            "lat": 45.775181
+        }
+    },
+    {
+        "id": 6539582,
+        "name": "Biella",
+        "country": "IT",
+        "coord": {
+            "lon": 8.05002,
+            "lat": 45.55986
+        }
+    },
+    {
+        "id": 6542288,
+        "name": "Soverato",
+        "country": "IT",
+        "coord": {
+            "lon": 16.54991,
+            "lat": 38.684978
+        }
+    },
+    {
+        "id": 6540662,
+        "name": "Pinerolo",
+        "country": "IT",
+        "coord": {
+            "lon": 7.33312,
+            "lat": 44.883942
+        }
+    },
+    {
+        "id": 3333225,
+        "name": "Dundee City",
+        "country": "GB",
+        "coord": {
+            "lon": -2.91667,
+            "lat": 56.466671
+        }
+    },
+    {
+        "id": 7290647,
+        "name": "Nuneaton and Bedworth District",
+        "country": "GB",
+        "coord": {
+            "lon": -1.47802,
+            "lat": 52.500641
+        }
+    },
+    {
+        "id": 7291924,
+        "name": "Rhyl",
+        "country": "GB",
+        "coord": {
+            "lon": -3.47247,
+            "lat": 53.31905
+        }
+    },
+    {
+        "id": 2649140,
+        "name": "Foulridge",
+        "country": "GB",
+        "coord": {
+            "lon": -2.16864,
+            "lat": 53.87579
+        }
+    },
+    {
+        "id": 2647062,
+        "name": "Hermitage",
+        "country": "GB",
+        "coord": {
+            "lon": -1.26823,
+            "lat": 51.455399
+        }
+    },
+    {
+        "id": 2648355,
+        "name": "Golcar",
+        "country": "GB",
+        "coord": {
+            "lon": -1.8557,
+            "lat": 53.639919
+        }
+    },
+    {
+        "id": 2636001,
+        "name": "Thornbury",
+        "country": "GB",
+        "coord": {
+            "lon": -2.55,
+            "lat": 52.23333
+        }
+    },
+    {
+        "id": 510291,
+        "name": "Peterhof",
+        "country": "RU",
+        "coord": {
+            "lon": 29.9,
+            "lat": 59.883331
+        }
+    },
+    {
+        "id": 518858,
+        "name": "Grebnevo",
+        "country": "RU",
+        "coord": {
+            "lon": 38.072777,
+            "lat": 55.961945
+        }
+    },
+    {
+        "id": 3746183,
+        "name": "Centro Habana",
+        "country": "CU",
+        "coord": {
+            "lon": -82.364166,
+            "lat": 23.13833
+        }
+    },
+    {
+        "id": 1014012,
+        "name": "Carolina",
+        "country": "ZA",
+        "coord": {
+            "lon": 30.114889,
+            "lat": -26.069269
+        }
+    },
+    {
+        "id": 3579132,
+        "name": "Gustavia",
+        "country": "BL",
+        "coord": {
+            "lon": -62.849781,
+            "lat": 17.896179
+        }
+    }
+]

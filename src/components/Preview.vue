@@ -1,6 +1,6 @@
 <template>
   <div class="preview">
-    <h2>Weather Forecast for {{ city }}</h2>
+    <h2 v-if="city">Weather Forecast for {{ city.name }}, {{ city.country }}</h2>
   </div>
 </template>
 
@@ -8,7 +8,7 @@
 export default {
   name: 'Preview',
   props: {
-    city: String,
+    city: Object,
   },
 };
 </script>
