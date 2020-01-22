@@ -1,12 +1,16 @@
 <template>
   <div class="preview">
     <h2 v-if="city">Weather Forecast for {{ city.name }}, {{ city.country }}</h2>
+    <Forecast v-if="city" :city="city"/>
   </div>
 </template>
 
 <script>
+import Forecast from './Forecast.vue';
+
 export default {
   name: 'Preview',
+  components: { Forecast },
   props: {
     city: Object,
   },
